@@ -1,6 +1,4 @@
-//new app.js file - Feature changess
-
-//new app.js file - Main changes
+//new app.js file - Aishwarya
 
 
 
